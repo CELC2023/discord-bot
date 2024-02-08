@@ -1,0 +1,3 @@
+email,discord,nickname,pronouns,user_id,school,region,school_id,checked_in
+example@example.com,Discord User Name,First Name,[ he / him / il ],unique id (assigned to CELC DB),School Name,Region Name,school_id (assigned to CELC DB),FALSE
+example@example.com,Rando Discord,Mikael,[ she / her / elle ],abc123,University of Calgary,West Member || Membre de l'Ouest,002,FALSE
